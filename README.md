@@ -27,7 +27,8 @@ An AI-powered desktop application that automatically detects and classifies vehi
 
 # 🏆 Recognition & Achievement
 
-This research project was awarded **Best Thesis Poster** in recognition of its research quality, technical implementation, and presentation.
+- Best Thesis Poster Award
+- Featured in the **Best Winners List** of the Final Year Project
 
 <p align="center">
 <img src="screenshots/best-thesis-poster.png" width="850">
