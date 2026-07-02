@@ -25,6 +25,16 @@ An AI-powered desktop application that automatically detects and classifies vehi
 
 ---
 
+# 🏆 Recognition & Achievement
+
+This research project was awarded **Best Thesis Poster** in recognition of its research quality, technical implementation, and presentation.
+
+<p align="center">
+<img src="screenshots/best-thesis-poster.png" width="850">
+</p>
+
+---
+
 # 📖 Project Overview
 
 Vehicle damage inspection is traditionally performed manually, making the process time-consuming, subjective, and prone to human error. This project applies deep learning and computer vision techniques to automate vehicle damage classification, providing a faster and more consistent inspection process.
@@ -162,6 +172,22 @@ The desktop application was developed using **Python** and **CustomTkinter**, pr
 
 ---
 
+## 📈 Training Results Comparison
+
+The following figure compares the performance of the baseline VGG16 model and the optimized VGG16 model throughout the training process. The comparison includes training and validation accuracy, training and validation loss, and highlights the improvements achieved through model optimization.
+
+<p align="center">
+<img src="screenshots/training-results.png" width="1000">
+</p>
+
+**Key observations:**
+
+- The optimized VGG16 model achieved significantly higher validation accuracy than the baseline model.
+- The enhanced model demonstrated better learning capability while maintaining stable convergence during training.
+- Training and validation performance comparisons illustrate the effectiveness of the optimization techniques applied to the VGG16 architecture.
+
+---
+
 # 🛠️ Technology Stack
 
 ### Programming Language
@@ -199,6 +225,16 @@ The desktop application was developed using **Python** and **CustomTkinter**, pr
 
 - Anaconda
 - Jupyter Notebook
+
+---
+
+# 🔒 Source Code Availability
+
+This repository showcases the project's architecture, user interface, model performance, and research outcomes.
+
+The complete source code, trained models, datasets, and implementation details are **not publicly available**, as they are currently retained by the project owner to support ongoing research publication, academic documentation, and intellectual property protection.
+
+Selected project materials are shared for portfolio and demonstration purposes. If you are a recruiter, academic collaborator, or authorized reviewer and would like to learn more about the implementation, please feel free to contact me at tazwaralam01@gmail.com.
 
 ---
 
