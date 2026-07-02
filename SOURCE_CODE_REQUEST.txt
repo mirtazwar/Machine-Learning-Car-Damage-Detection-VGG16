@@ -1,0 +1,16 @@
+SOURCE CODE AVAILABILITY
+
+Thank you for your interest in this project.
+
+The complete source code, trained models, datasets, and implementation files are not included in this public repository.
+
+The implementation is currently retained by the project owner to support ongoing research publication, academic documentation, and intellectual property protection.
+
+This repository is intended to showcase the project's architecture, graphical user interface, methodology, and research outcomes.
+
+If you are a recruiter, academic collaborator, or authorized reviewer and would like additional implementation details, please contact:
+
+Alam Mir Tazwar
+Email: tazwaralam01@gmail.com
+
+Thank you for your understanding.
